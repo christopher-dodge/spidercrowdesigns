@@ -12,7 +12,7 @@ class TopNav extends Component {
   render(){
     return (
       <nav className="NavItems">
-        <h1 className="nav-logo">Spider Crow Designs</h1>
+        <a className="nav-logo" href="index.html"><h1>Spider Crow Designs</h1></a>
         <div className="menu-icon" onClick={this.handleClick}>
           <i className={this.state.clicked ? 'fas fa-times' : 'fas fa-bars'}></i>
         </div>
