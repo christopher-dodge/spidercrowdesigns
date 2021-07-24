@@ -1,4 +1,5 @@
 import React from 'react'
+import SliderImage from './sliderImage.js'
 // import image1 from '../../images/spider-crow-pic-1.JPG';
 // import image2 from '../../images/spider-crow-pic-2.JPG';
 // import image3 from '../../images/spider-crow-pic-3.JPG';
@@ -17,8 +18,6 @@ import React from 'react'
 // import image16 from '../../images/spider-crow-pic-16.JPG';
 // import image17 from '../../images/spider-crow-pic-17.JPG';
 // import image18 from '../../images/spider-crow-pic-18.JPG';
-import SliderImage from './sliderImage.js'
-
 
 function SliderContent(props) {
     // const imagesMap = SliderImage.map((image, index) => '<img className="slider-image" src="' + image[index].source + '" alt="" />');

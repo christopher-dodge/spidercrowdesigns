@@ -13,6 +13,21 @@ const SliderImage = [
     title: "Mountains and the Beach",
     description: "Test Unsplash URL 3",
     source: "https://images.unsplash.com/photo-1624031031143-7a084c514946?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2281&q=80"
+  },
+  {
+    title: "Abstract blue and red",
+    description: "Test Unsplash URL 4",
+    source: "https://images.unsplash.com/photo-1541701494587-cb58502866ab?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80"
+  },
+  {
+    title: "Abstract baby blue and pink",
+    description: "Test Unsplash URL 5",
+    source: "https://images.unsplash.com/photo-1557672172-298e090bd0f1?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=934&q=80"
+  },
+  {
+    title: "Space is cray",
+    description: "Test Unsplash URL 6",
+    source: "https://images.unsplash.com/photo-1484589065579-248aad0d8b13?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1296&q=80"
   }
   // {
   //   title: "spider-crow-pic-1.JPG",
