@@ -1,4 +1,4 @@
-export const MenuItems = [
+export const NavItems = [
   {
     title: 'Artwork',
     link: '#artwork',

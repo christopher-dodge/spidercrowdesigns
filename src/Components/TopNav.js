@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import {MenuItems} from "./MenuItems"
+import {NavItems} from "./NavItems"
 import './TopNav.css'
 import {Button} from './Button'
 
@@ -17,7 +17,7 @@ class TopNav extends Component {
           <i className={this.state.clicked ? 'fas fa-times' : 'fas fa-bars'}></i>
         </div>
         <ul className={this.state.clicked ? 'nav-menu active' : 'nav-menu'}>
-          {MenuItems.map((item, index) => {
+          {NavItems.map((item, index) => {
             return (
               <li><a className={item.cName} href={item.link}>{item.title}</a></li>
             )
