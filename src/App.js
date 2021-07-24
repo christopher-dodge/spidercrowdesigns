@@ -2,6 +2,7 @@ import React, { Fragment } from 'react';
 import Slider from './Components/Slider.js';
 import TopNav from './Components/TopNav.js';
 import './App.css';
+import About from './Components/About.js';
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
       <Fragment>
         <Slider />
       </Fragment>
+      <About />
     </div>
   );
 }

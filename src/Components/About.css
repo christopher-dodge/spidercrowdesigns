@@ -1,0 +1,22 @@
+.about div {
+  margin: 5% 20%;
+}
+
+.about h1 {
+  margin-bottom: 1rem;
+}
+
+.about p {
+  line-height: 1.5rem;
+}
+
+.about #artist-pic {
+  height: 350px;
+  width: 350px;
+  float: right;
+  margin: 10px;
+}
+
+.artist-bio {
+  padding-bottom: 10%;
+}
