@@ -3,6 +3,7 @@ import Slider from './Components/Slider.js';
 import TopNav from './Components/TopNav.js';
 import './App.css';
 import About from './Components/About.js';
+import Contact from './Components/Contact.js';
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
         <Slider />
       </Fragment>
       <About />
+      <Contact />
     </div>
   );
 }
