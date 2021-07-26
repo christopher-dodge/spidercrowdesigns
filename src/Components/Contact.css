@@ -1,0 +1,46 @@
+.contact-form {
+  margin: 0 auto 100px;
+  width: 25%;
+  /* justify-content: center; */
+  /* display: flexbox; */
+  /* text-align: center; */
+}
+
+h1, h2 {
+  margin-bottom: 1rem;
+}
+
+h2 {
+ font-size: 0.9rem;
+}
+
+hr {
+  width: 55%;
+  margin: 0 auto 100px;
+  border-top: 1px solid lightgrey;
+}
+
+input[type=text], input[type=email], textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  box-sizing: border-box; /* Make sure that padding and width stays in place */
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+  display: block;
+}
+
+button[type=submit] {
+  background-color: #000;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  cursor: pointer;
+}
+
+button[type=submit]:hover {
+  /* background-color: orange; */
+  background-color: grey;
+}
+
