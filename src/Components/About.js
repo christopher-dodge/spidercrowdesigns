@@ -7,12 +7,18 @@ export default function About() {
     <section id="about" className="about">
       <div className="intention">
         <h1>Intention</h1>
-        <p>Barista brewed turkish black blue mountain, variety, flavour bar  latte that white. Instant iced macchiato, so black whipped caramelization, seasonal extraction in decaffeinated robust. To go, coffee, to go, instant cappuccino spoon, that percolator fair trade dark brewed. Whipped extraction, est, café au lait latte and id black carajillo aftertaste plunger pot brewed. Crema caramelization single origin, half and half caramelization flavour cinnamon mug dripper espresso wings.</p>
+        <p><em>Together the Spider and Crow weave a spell of dream magic and sacred journeys.</em></p>
+        <p><em>"</em><strong>Hello!</strong> Beautiful Soul! Yes, You! &hearts;</p>
+        <p>I created this thinking of you.</p>
+        <p>Every piece is one of a kind, <em>handmade</em> with intention and blessings to help assist you with your journey towards your spiritual truth and highest good!</p>
+        <p>Some carry with them payers, mantras, insights, wishes - All uniquely created by me with intuitive guidance and tremendous <strong><em>Love</em></strong> - for you!</p>
+        <p>Please connect and share your journey.<em>"</em></p>
+        <strong><em>&hearts; Veronica Lynn</em></strong>
       </div>
       <div className="artist-bio">
         <img id="artist-pic" src={ArtistPic} alt="" />
         <h1>About the Artist</h1>
-        <p>Akarm dhanurasan baddha konasana catuspadapitham marichyasana ii matsyasana chin lock ashtanga namaskara dhanurasana energy center in the subtle body associated in the physical body with the forehead. Akarm dhanurasan baddha konasana catuspadapitham marichyasana ii matsyasana chin lock ashtanga namaskara dhanurasana energy center in the subtle body associated in the physical body with the forehead.</p>
+        <p>Veronica Lynn is a Mother, Grandmother, Artist and Spiritual Seeker. She loves music, adventure, sacred geometry and all things celestial. When not working on new and exciting challenges, Veronica's ideal fun is fireside with loved ones philosophizing about GOD, Jazz, and how to better serve humanity.</p>
       </div>
     </section>
   )
