@@ -15,8 +15,8 @@ export const NavItems = [
   //   cName: 'nav-links'
   // },
   {
-    title: 'Donations',
-    link: '#donations',
+    title: 'Donate',
+    link: '#Donate',
     cName: 'nav-links'
   },
   {

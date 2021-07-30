@@ -1,0 +1,17 @@
+.donate div {
+  /* background: skyblue; */
+  margin: 5% 20%;
+  /* margin: 0 auto 100px; */
+}
+
+.donate h1 {
+  margin-bottom: 1rem;
+  text-align: center;
+}
+
+#venmo-qr {
+  margin: 0 auto;
+  width: 300px;
+  text-align: center;
+  display: block;
+}
