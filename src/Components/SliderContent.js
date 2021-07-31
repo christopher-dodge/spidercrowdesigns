@@ -3,7 +3,7 @@ import SliderImage from './sliderImage.js'
 
 function SliderContent(props) {
     return (
-      <div id="slider-container">
+      <div>
         {SliderImage.map((slide, index) => (<div 
           key={index}
           className={index === props.activeIndex ? 'slides active' : 'inactive'}>
