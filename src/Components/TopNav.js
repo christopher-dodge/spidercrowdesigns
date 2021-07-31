@@ -1,7 +1,6 @@
 import React, { Component } from 'react'
 import {NavItems} from "./NavItems"
 import './TopNav.css'
-import {Button} from './Button'
 
 class TopNav extends Component {
   state = { clicked: false }
@@ -19,7 +18,7 @@ class TopNav extends Component {
         <ul className={this.state.clicked ? 'nav-menu active' : 'nav-menu'}>
           {NavItems.map((item, index) => {
             return (
-              <li><a className={item.cName} href={item.link}>{item.title}</a></li>
+              <li key={index}><a className={item.cName} href={item.link}>{item.title}</a></li>
             )
           })}
         </ul>
