@@ -10,13 +10,18 @@ export const NavItems = [
     cName: 'nav-links'
   },
   // {
-  //   title: 'Education',
-  //   link: '#education',
+  //   title: 'Blog',
+  //   link: 'blog',
+  //   cName: 'nav-links'
+  // },
+  // {
+  //   title: 'Recommendations',
+  //   link: '#recommendations',
   //   cName: 'nav-links'
   // },
   {
     title: 'Donate',
-    link: '#Donate',
+    link: '#donate',
     cName: 'nav-links'
   },
   {
