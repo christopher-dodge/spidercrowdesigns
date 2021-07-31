@@ -19,3 +19,12 @@
 .artist-bio {
   padding-bottom: 10%;
 }
+
+.intention h3 {
+  font-size: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+#signature {
+  font: italic small-caps bold 16px/2 cursive;
+}
