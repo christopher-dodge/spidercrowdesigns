@@ -4,14 +4,26 @@ import ArtistPic from '../images/artist-pic.jpg';
 
 export default function About() {
   return (
-    <section id="about" className="about">
+    <section  className="about">
+    <a name="about" className="about"></a>
+      <div className="offerings">
+        <div className="offer">
+          <h1><strong>One-Of-A-Kind Handmade Jewelry</strong></h1>
+        </div>
+        <div className="offer">
+          <h1><strong>Custom-Designed Jewelry</strong></h1>
+        </div>
+        <div className="offer">
+          <h1><strong>Intuitive Tarot Card Readings</strong></h1>
+        </div>
+      </div>
       <div className="intention">
         <h1>Intention</h1>
         <h3><em>Together the Spider and Crow weave a spell of dream magic and sacred journeys.</em></h3>
         <p><em>"</em><strong>Hello! Beautiful Soul! Yes, You! &hearts;</strong></p>
         <p>I created this thinking of you.</p>
         <p>Every piece is one of a kind, <em>handmade</em> with intention and blessings to help assist you with your journey towards your spiritual truth and highest good!</p>
-        <p>Some carry with them payers, mantras, insights, wishes - All uniquely created by me with intuitive guidance and tremendous <strong><em>Love</em></strong> - for you!</p>
+        <p>Some carry with them prayers, mantras, insights, wishes - All uniquely created by me with intuitive guidance and tremendous <strong><em>Love</em></strong> - for you!</p>
         <p>Please connect and share your journey.<em>"</em></p>
         <p id="signature"><strong><em>&hearts; Veronica Lynn</em></strong></p>
       </div>

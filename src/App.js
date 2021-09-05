@@ -14,7 +14,6 @@ function App() {
         <Slider />
       </Fragment>
       <About />
-      <Donate />
       <Contact />
     </div>
   );
