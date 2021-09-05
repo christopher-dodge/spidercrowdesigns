@@ -7,7 +7,7 @@ export default function Contact() {
       <hr />
       <div className="contact-form">
         <h1>Contact</h1>
-        <h2>Have a question, comment, conern, drop us a line and we'll get back to you as soon as we can.</h2>
+        <h2>If you would like custom-designed jewelry, an intuitive tarot reading or just to share your journey, please connect via email.</h2>
         <h3>spidercrowdesigns@gmail.com</h3>
       </div>
     </section>
