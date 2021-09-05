@@ -2,6 +2,14 @@
   margin-top: 10%;
 }
 
+a.about {
+  position: relative;
+  top:-100px;
+  display: block;
+  height: 0;
+  width:0
+}
+
 .about h1 {
   margin-bottom: 1rem;
 }
