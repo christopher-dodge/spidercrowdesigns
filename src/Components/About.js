@@ -14,7 +14,7 @@ export default function About() {
         <p><em>"</em><strong>Hello! Beautiful Soul! Yes, You! &hearts;</strong></p>
         <p>I created this thinking of you.</p>
         <p>Every piece is one of a kind, <em>handmade</em> with intention and blessings to help assist you with your journey towards your spiritual truth and highest good!</p>
-        <p>Some carry with them payers, mantras, insights, wishes - All uniquely created by me with intuitive guidance and tremendous <strong><em>Love</em></strong> - for you!</p>
+        <p>Some carry with them prayers, mantras, insights, wishes - All uniquely created by me with intuitive guidance and tremendous <strong><em>Love</em></strong> - for you!</p>
         <p>Please connect and share your journey.<em>"</em></p>
         <p id="signature"><strong><em>&hearts; Veronica Lynn</em></strong></p>
       </div>
