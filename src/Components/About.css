@@ -1,3 +1,7 @@
+.about {
+  margin-top: 10%;
+}
+
 .about h1 {
   margin-bottom: 1rem;
 }
@@ -27,7 +31,7 @@
 }
 
 .offerings {
-  margin: 10% 13%;
+  margin: 0 13% 10%;
   text-align: center;
   display: flex;
   flex-wrap: wrap;
@@ -37,8 +41,7 @@
 
 .offer {
   color: plum;
-  /* height: 10rem; */
-  /* width: 20rem; */
+  margin: 2rem 2rem;
 }
 
 .offer h1 {
