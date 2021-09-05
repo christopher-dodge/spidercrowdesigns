@@ -19,11 +19,11 @@ export const NavItems = [
   //   link: '#recommendations',
   //   cName: 'nav-links'
   // },
-  {
-    title: 'Donate',
-    link: '#donate',
-    cName: 'nav-links'
-  },
+  // {
+  //   title: 'Donate',
+  //   link: '#donate',
+  //   cName: 'nav-links'
+  // },
   {
     title: 'Contact',
     link: '#contact',
