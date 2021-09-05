@@ -1,7 +1,3 @@
-.about div {
-  margin: 5% 20%;
-}
-
 .about h1 {
   margin-bottom: 1rem;
 }
@@ -17,7 +13,12 @@
 }
 
 .artist-bio {
+  margin: 5% 20%;
   padding-bottom: 10%;
+}
+
+.intention {
+  margin: 5% 20%;
 }
 
 .intention h3 {
@@ -25,10 +26,26 @@
   margin-bottom: 1.5rem;
 }
 
-#signature {
-  font: italic small-caps bold 16px/2 cursive;
+.offerings {
+  margin: 10% 13%;
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  width: auto;
 }
 
-.offering {
-  text-align: center;
+.offer {
+  color: plum;
+  /* height: 10rem; */
+  /* width: 20rem; */
+}
+
+.offer h1 {
+  margin: 0;
+  font-size: 2rem;
+}
+
+#signature {
+  font: italic small-caps bold 16px/2 cursive;
 }

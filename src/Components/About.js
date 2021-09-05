@@ -5,8 +5,16 @@ import ArtistPic from '../images/artist-pic.jpg';
 export default function About() {
   return (
     <section id="about" className="about">
-      <div className="offering">
-        <h1><strong>One-Of-A-Kind Handmade Jewelry · Custom-Designed Jewelry · Intuitive Tarot Card Readings</strong></h1>
+      <div className="offerings">
+        <div className="offer">
+          <h1><strong>One-Of-A-Kind Handmade Jewelry</strong></h1>
+        </div>
+        <div className="offer">
+          <h1><strong>Custom-Designed Jewelry</strong></h1>
+        </div>
+        <div className="offer">
+          <h1><strong>Intuitive Tarot Card Readings</strong></h1>
+        </div>
       </div>
       <div className="intention">
         <h1>Intention</h1>
