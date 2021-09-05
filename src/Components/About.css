@@ -28,3 +28,7 @@
 #signature {
   font: italic small-caps bold 16px/2 cursive;
 }
+
+.offering {
+  text-align: center;
+}
