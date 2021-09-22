@@ -4,7 +4,6 @@ import TopNav from './Components/TopNav.js';
 import './App.css';
 import About from './Components/About.js';
 import Contact from './Components/Contact.js';
-import Donate from './Components/Donate.js';
 
 function App() {
   return (

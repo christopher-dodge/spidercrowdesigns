@@ -6,7 +6,7 @@ export default function About() {
   return (
     <section  className="about">
     <a name="about" className="about"></a>
-      <div className="offerings">
+      <div className="offerings" id="some-id">
         <div className="offer">
           <h1><strong>One-Of-A-Kind Handmade Jewelry</strong></h1>
         </div>
@@ -28,9 +28,13 @@ export default function About() {
         <p id="signature"><strong><em>&hearts; Veronica Lynn</em></strong></p>
       </div>
       <div className="artist-bio">
-        <img id="artist-pic" src={ArtistPic} alt="" />
-        <h1>About the Artist</h1>
-        <p>Veronica Lynn is a Mother, Grandmother, Artist and Spiritual Seeker. She loves music, adventure, sacred geometry and all things celestial. When not working on new and exciting challenges, Veronica's ideal fun is fireside with loved ones philosophizing about GOD, Jazz, and how to better serve humanity.</p>
+        <div id="artist-info">
+          <h1>About the Artist</h1>
+          <p>Veronica Lynn is a Mother, Grandmother, Artist and Spiritual Seeker. She loves music, adventure, sacred geometry and all things celestial. When not working on new and exciting challenges, Veronica's ideal fun is fireside with loved ones philosophizing about GOD, Jazz, and how to better serve humanity.</p>
+        </div>
+        <div id="artist-pic-wrapper">
+          <img id="artist-pic" src={ArtistPic} alt="" />
+        </div>
       </div>
     </section>
   )
